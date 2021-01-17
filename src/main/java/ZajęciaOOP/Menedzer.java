@@ -1,2 +1,5 @@
-package ZajęciaOOP;public class Menedzer {
+package ZajęciaOOP;
+
+public class Menedzer {
+    private String[]
 }
